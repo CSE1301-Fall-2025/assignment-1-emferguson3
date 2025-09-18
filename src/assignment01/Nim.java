@@ -41,6 +41,7 @@ public class Nim {
         } else {
             System.out.println("The computer won, better luck next time :(");
         }
+        input.close();
 
     }
 }
